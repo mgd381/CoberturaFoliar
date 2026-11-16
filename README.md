@@ -72,4 +72,6 @@ Si más tarde mides otras fotos de la misma carpeta, el Excel se conserva y se a
   algo mayor que la real. Mantén los cuadrados a la altura de la planta y la cámara siempre a la misma altura.
 - **Revisa siempre la escala.** Que los cuatro cuadrados sumen 16 cm² confirma que se detectaron bien, no que
   la medida sea exacta.
+
+  
 © 2026 Micael G. D. Todos los derechos reservados.
